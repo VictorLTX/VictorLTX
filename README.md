@@ -81,7 +81,7 @@ Me chamo Victor Luiz Teixeira da Silva, tenho 23 anos e sou de São Paulo. Forma
     title="Flask"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg " 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
 />
 <img 
     align="left" 
@@ -120,5 +120,5 @@ Me chamo Victor Luiz Teixeira da Silva, tenho 23 anos e sou de São Paulo. Forma
     alt="Github Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=VictorLTX&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=VictorLTX&show_icons=true&theme=dark&include_all_commits=true&locale=PT-BR" 
 />
