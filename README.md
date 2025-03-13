@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Victor Luiz Teixeira da Silva, tenho 23 anos e sou de São Paulo. Formado em ADS na FAM, e com mais de dois anos de experiência como desenvolvedor. Atualmente, estou atuando como freelancer e aguardando o início de uma pós graduação. Você pode encontrar mais sobre minha carreira no meu "[Linkedin](www.linkedin.com/in/vltx)" e também pode encontrar meu portifólio em "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Victor Luiz Teixeira da Silva, tenho 23 anos e sou de São Paulo. Formado em ADS na FAM, e com mais de dois anos de experiência como desenvolvedor. Atualmente, estou atuando como freelancer e aguardando o início de uma pós graduação. Você pode encontrar mais sobre minha carreira no meu "[Linkedin](www.linkedin.com/in/vltx)".
 
 <p align="left">
     <a href="www.linkedin.com/in/vltx">
